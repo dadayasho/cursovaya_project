@@ -1,4 +1,4 @@
-import opejjjnpyxl
+import openpyxl
 import re
 
 path = r''
